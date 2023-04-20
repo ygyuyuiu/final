@@ -1,0 +1,15 @@
+/Users/egornagorny/Desktop/finaltask/finaltask/bin/Debug/net7.0/finaltask
+/Users/egornagorny/Desktop/finaltask/finaltask/bin/Debug/net7.0/finaltask.deps.json
+/Users/egornagorny/Desktop/finaltask/finaltask/bin/Debug/net7.0/finaltask.runtimeconfig.json
+/Users/egornagorny/Desktop/finaltask/finaltask/bin/Debug/net7.0/finaltask.dll
+/Users/egornagorny/Desktop/finaltask/finaltask/bin/Debug/net7.0/finaltask.pdb
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.csproj.AssemblyReference.cache
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.AssemblyInfoInputs.cache
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.AssemblyInfo.cs
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.csproj.CoreCompileInputs.cache
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.dll
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/refint/finaltask.dll
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.pdb
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/finaltask.genruntimeconfig.cache
+/Users/egornagorny/Desktop/finaltask/finaltask/obj/Debug/net7.0/ref/finaltask.dll
